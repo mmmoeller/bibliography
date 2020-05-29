@@ -106,6 +106,7 @@ header {
 }
 .project-item h3 {
   margin-top: 0;
+  image-rendering: optimizeQuality;
 }
 
 
