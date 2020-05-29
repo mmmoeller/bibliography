@@ -109,7 +109,9 @@ header {
   image-rendering: auto 50%;
 }
 
-
+.lab img {
+  width: fit-content;
+}
 
 /* Work Experience
 ------------------------------------*/
