@@ -114,8 +114,9 @@ header {
 }
 
 .pw-photo img {
-  width: 300px;
+  width: fit-content;
 }
+
 
 /* Work Experience
 ------------------------------------*/
