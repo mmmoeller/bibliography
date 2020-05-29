@@ -113,6 +113,10 @@ header {
   width: fit-content;
 }
 
+.louie img {
+  width: fit-content;
+}
+
 /* Work Experience
 ------------------------------------*/
 .work-experience {
